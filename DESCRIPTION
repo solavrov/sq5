@@ -1,0 +1,11 @@
+Package: sq5
+Type: Package
+Title: Solver of Picking Cells Problem
+Version: 0.1.1
+Author: Stas Lavrov
+Maintainer: The package maintainer <2slavrov@gmail.com>
+Description: Set of functions that helps to find solutions of a problem about picking m cells of n-by-n square with no more than k cells lie on one line
+License: FREE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
